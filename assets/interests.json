@@ -1,0 +1,36 @@
+{
+    "interests": [
+      {
+        "id": 1,
+        "topic": "Desarrollo de videojuegos"
+      },
+      {
+        "id": 2,
+        "topic": "Música"
+      },
+      {
+        "id": 3,
+        "topic": "Dibujo/Arte conceptual"
+      },
+      {
+        "id": 4,
+        "topic": "Storytelling"
+      },
+      {
+        "id": 5,
+        "topic": "Diseño de UI/UX"
+      },
+      {
+        "id": 6,
+        "topic": "Diseño de sonido"
+      },
+      {
+        "id": 7,
+        "topic": "Cultura general"
+      },
+      {
+        "id": 8,
+        "topic": "Geografía"
+      }
+    ]
+}

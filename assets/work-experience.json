@@ -1,0 +1,38 @@
+{
+    "trabajos": [
+      {
+        "id": 1,
+        "puesto": "Desarrollador Jr.",
+        "empresa": "CuriTracks",
+        "fecha_ini": "09/2017",
+        "fecha_fin": "12/2020",
+        "ciudad": "Monterrey",
+        "pais": "Mexico",
+        "logros": [
+          {
+            "logro": "Desarrollo de un sitio web para albergar música."
+          },
+          {
+            "logro": "Versión para móviles."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "puesto": "Desarrollador independiente",
+        "empresa": "Atolón",
+        "fecha_ini": "01/2016",
+        "fecha_fin": "--/----",
+        "ciudad": "Camerino Z. Mendoza",
+        "pais": "Mexico",
+        "logros": [
+          {
+            "logro": "Desarrollo de entornos 3D."
+          },
+          {
+            "logro": "Cooperación de 4 jugadores online."
+          }
+        ]
+      }
+    ]
+  }

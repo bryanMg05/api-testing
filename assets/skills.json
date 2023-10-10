@@ -1,0 +1,59 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "skillName": "Desarrollo de videojuegos.",
+        "description": "Experto en desarrollo de gameplay y balance de mecánicas.",
+        "technologies": [
+          "GDScript",
+          "Phyton",
+          "C++"
+        ],
+        "projects": [
+          {
+            "project": "Juego de plataformas 2D."
+          },
+          {
+            "project": "Recreación de campus virtual en entorno 3D."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "skillName": "Desarrollo FrontEnd.",
+        "description": "Experto en diseño y desarrollo de Interfaces de usuario.",
+        "technologies": [
+          "CSS",
+          "SASS",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "projects": [
+          {
+            "project": "Interfaz de bienvenida con animaciones dinámicas."
+          },
+          {
+            "project": "Transición entre apartados con animaciones fluidas."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "skillName": "Desarrollo de aplicaciones móviles.",
+        "description": "Desarrollo de aplicaciones móviles.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "HTML"
+        ],
+        "projects": [
+          {
+            "project": "Navegador Web."
+          },
+          {
+            "project": "Calculadora multifunción."
+          }
+        ]
+      }
+    ]
+  }

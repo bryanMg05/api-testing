@@ -1,0 +1,22 @@
+{
+    "certifications": [
+      {
+        "id": 1,
+        "title": "Certified GDScript Developer",
+        "issuer": "Atll. Inc",
+        "date": "04/2023"
+      },
+      {
+        "id": 2,
+        "title": "Certified AWS Developer",
+        "issuer": "CaviFaX Systems",
+        "date": "08/2020"
+      },
+      {
+        "id": 3,
+        "title": "Certified C# Developer",
+        "issuer": "Hood Classic's. Inc",
+        "date": "06/2017"
+      }
+    ]
+  }
