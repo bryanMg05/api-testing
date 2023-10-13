@@ -9,28 +9,16 @@ app.options('*', cors());
 const port = 8080;
 
 app.get('/', (req, res, next) => {
-	res.send('node express api <br> by adsoft');
+	res.send('node express api <br> by coco');
 });
 
-app.get('/header', (req, res, next) => {
-  res.sendfile("assets/header.json");
+app.get('/hours', (req, res, next) => {
+  res.sendfile("assets/1a_dev_hours.json");
 });
 
-app.get('/work-experience', (req, res, next) =>{
-	res.sendfile("assets/work-experience.json");
-});
-
-app.get('/skills', (req, res, next) =>{
-	res.sendfile("assets/skills.json");
-});
-
-app.get('/certifications', (req, res, next) =>{
-	res.sendfile("assets/certifications.json");
-});
-
-app.get('/interests', (req, res, next) =>{
-	res.sendfile("assets/interests.json");
-});
+app.get('/size', (req, res, next) => {
+	res.sendfile("assets/1a_proxy_size.json");
+  });
 
 app.listen(port,  () => 
 	console.log('listening on port ' + port
