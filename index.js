@@ -9,7 +9,7 @@ app.options('*', cors());
 const port = 8080;
 
 app.get('/', (req, res, next) => {
-	res.send('node express api <br> by coco');
+	res.send('node express api <br> by bryan');
 });
 
 app.get('/hours', (req, res, next) => {
